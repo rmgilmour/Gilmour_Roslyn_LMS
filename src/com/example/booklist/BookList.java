@@ -1,8 +1,6 @@
 /**
  * File Name: 	LibraryMS.java
  * Author:     	Roslyn Gilmour
- * Course:		CEN-3024C
- * Professor:	Mary Walauskis
  * Description:	This program will provide a Switch menu to obtain the
  *              user's menu choice.
  *              The first choice is to read a text file.  The readFile
@@ -12,7 +10,7 @@
  *              The user can then select to either list the array
  *              contents via the listFile method, or remove a line item
  * 				from the array and return the list.
- * Date:		9/4/23
+ * Date Started:9/4/23
  */
 
 package com.example.booklist;
